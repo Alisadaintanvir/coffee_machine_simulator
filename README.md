@@ -9,11 +9,11 @@ This is a simple Python program that simulates a coffee machine. Users can selec
 [License](license)  
 
 ## Features
-[Users can choose from different types of coffee: espresso, latte, or cappuccino.
+Users can choose from different types of coffee: espresso, latte, or cappuccino.
 The program checks if there are sufficient resources (e.g., coffee beans, milk, water) to make the selected coffee.
 Users can insert coins to pay for their drink, and the program calculates the total amount inserted.
 If the user has inserted enough money, the program dispenses the selected coffee and calculates the change.
-The program keeps track of the available resources and the money earned from selling coffees.](#Features)
+The program keeps track of the available resources and the money earned from selling coffees.
 
 ## Usage
 To use the coffee machine program, follow these steps:
