@@ -1,7 +1,7 @@
 # Coffee Machine
 This is a simple Python program that simulates a coffee machine. Users can select from a menu of coffee options, insert coins to pay for their drink, and receive their desired coffee if the necessary resources are available.
 
-##Table of Contents
+## Table of Contents
 <a name="Features"></a>
 Features
 Usage
@@ -9,14 +9,14 @@ Menu
 Resources
 License
 
-##Features
+## Features
 [Users can choose from different types of coffee: espresso, latte, or cappuccino.
 The program checks if there are sufficient resources (e.g., coffee beans, milk, water) to make the selected coffee.
 Users can insert coins to pay for their drink, and the program calculates the total amount inserted.
 If the user has inserted enough money, the program dispenses the selected coffee and calculates the change.
 The program keeps track of the available resources and the money earned from selling coffees.](#Features)
 
-##Usage
+## Usage
 To use the coffee machine program, follow these steps:
 
 Run the program using a Python interpreter.
@@ -28,7 +28,7 @@ If enough money is inserted, the program will dispense the coffee and calculate 
 Enjoy your coffee!
 To turn off the coffee machine, enter "off" when prompted for your coffee choice.
 
-##Menu
+## Menu
 The coffee machine offers the following options:
 
 Espresso: A strong coffee brewed by forcing hot water through finely ground coffee beans. It does not contain milk.
@@ -36,7 +36,7 @@ Latte: A coffee drink made with espresso and steamed milk.
 Cappuccino: A coffee drink made with espresso, steamed milk, and a frothy milk foam topping.
 Each coffee option has a different cost associated with it.
 
-##Resources
+## Resources
 The coffee machine program keeps track of the following resources:
 
 Coffee beans (in grams)
