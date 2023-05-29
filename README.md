@@ -2,11 +2,11 @@
 This is a simple Python program that simulates a coffee machine. Users can select from a menu of coffee options, insert coins to pay for their drink, and receive their desired coffee if the necessary resources are available.
 
 ## Table of Contents
-[Features](#feature)
-[Usage](#usage)
-[Menu](#menu)
-[Resources](resources)
-[License](license)
+[Features](#feature)  
+[Usage](#usage)  
+[Menu](#menu)  
+[Resources](Resources)  
+[License](license)  
 
 ## Features
 [Users can choose from different types of coffee: espresso, latte, or cappuccino.
@@ -44,7 +44,7 @@ Water (in milliliters)
 Money (in dollars)
 The initial resource quantities can be configured in the resources dictionary.
 
-##License
+## License
 This project is licensed under the MIT License.
 
 Feel free to modify and use this coffee machine program according to your needs. Enjoy your coffee!
