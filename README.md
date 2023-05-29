@@ -5,7 +5,7 @@ This is a simple Python program that simulates a coffee machine. Users can selec
 [Features](#feature)  
 [Usage](#usage)  
 [Menu](#menu)  
-[Resources](Resources)  
+[Resources](resources)  
 [License](license)  
 
 ## Features
