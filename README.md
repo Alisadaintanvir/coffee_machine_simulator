@@ -5,8 +5,8 @@ This is a simple Python program that simulates a coffee machine. Users can selec
 [Features](#feature)  
 [Usage](#usage)  
 [Menu](#menu)  
-[Resources](resources)  
-[License](license)  
+[Resources](#resources)  
+[License](#license)  
 
 ## Features
 Users can choose from different types of coffee: espresso, latte, or cappuccino.
